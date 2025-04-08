@@ -1,4 +1,7 @@
 
+import sys
+input = sys.stdin.readline
+
 coin = [25, 10, 5, 1]
 T = int(input())
 
